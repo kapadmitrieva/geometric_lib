@@ -30,4 +30,4 @@ def perimeter(a, b, c):
         Пример вызова:
             print(perimeter(3, 4, 5)) # Вывод: 12
     '''
-    return 2 * (a + b)
+    return a + b + c
